@@ -45,3 +45,4 @@ How to use this GitHub repository as a template for your submission, including h
 ## TODO
 ### in week 3
 - help students fork the repo and understand its code structure, etc. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xcVZdRSiVhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
