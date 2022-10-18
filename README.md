@@ -33,6 +33,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 ### in week 3
+- Copy my notes.
 - Brainstorm ideas.
 - Figure out what to do.
 
