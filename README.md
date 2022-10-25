@@ -26,6 +26,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
+- 2022-10-25 I attended week 4 class.
 - 2022-10-18 I created a Git Hub profile.
  
 
