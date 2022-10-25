@@ -36,6 +36,7 @@ How to use this GitHub repository as a template for your submission, including h
 - Copy my notes.
 
 ### by the end of week 4
+- Do the VR test.
 - Brainstorm ideas.
-- Figure out what to do (or have a broad idea)
+- Figure out what to do (or have a broad idea).
 
