@@ -35,7 +35,7 @@ How to use this GitHub repository as a template for your submission, including h
 ### week 3
 - Copy my notes.
 
-## by the end of week 4
+### by the end of week 4
 - Brainstorm ideas.
 - Figure out what to do (or have a broad idea)
 
