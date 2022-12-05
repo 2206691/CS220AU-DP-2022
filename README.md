@@ -26,25 +26,21 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
+- 2022-11-30 I found few websites that could help me with my project.
 - 2022-11-29 I consulted my ideas with a teacher.
 - 2022-11-11 I narrowed my topic down to second-hand clothing.
 - 2022-11-10 I thought about the topic i want to focus on, climate change.
 - 2022-10-25 I attended week 4 class.
+- 2011-10-19 I copied my notes to Git Hub.
 - 2022-10-18 I created a Git Hub profile.
  
 
 <br>
 
 ## TODO
-### week 3
-- Copy my notes.
 
-### by the end of week 4
-- Do the VR test.
-- Brainstorm ideas.
-- Figure out what to do (or have a broad idea).
-
-### week 9
-- complete my log
-- write down key words for my research
+### week 10
+- create an outline of my essay
+- know my resources
 - contact people that have done their research regarding this topic
+
