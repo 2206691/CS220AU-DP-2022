@@ -26,6 +26,8 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
+- 2022-12-5 I created a list of resources.
+- 2022-12-4 I created a draft outline for my essay.
 - 2022-11-30 I found few websites that could help me with my project.
 - 2022-11-29 I consulted my ideas with a teacher.
 - 2022-11-11 I narrowed my topic down to second-hand clothing.
