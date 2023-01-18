@@ -21,18 +21,9 @@ I made sure that
 ### Self- and peer-assessment
 In the `assessement.md` file
 
-- [ ] I familiarised myself with the marking rubric;
-- [ ] I filled in the self-assessment table;
+- [x] I familiarised myself with the marking rubric;
+- [x] I filled in the self-assessment table;
 - [ ] I filled in the peer-assessment tables for which one student in my group provided feedback for;
 - [ ] I familiarised myself with the marking rubric and provided feedback for at least one student in my group.
 
 The student registration number(s) of the student(s) I provided feedback with is: <!-- #todo : add your classmate's student number -->  
-
-<!-- #todo : 
-- delete all unnecessary HTML comments in this file 
-- download this .md file to your computer
-- rename the downloaded file and rename it so that they show your student number e.g. `0610279-dp-checklist.md` 
-- submit this file on FASER
-- relax
--->
-
