@@ -16,9 +16,13 @@ With the information given, it is undoubtable that something needs to change. If
 ## What do I do
 
 <br>
+I myself have created an account on Vinted and I have both bought and sold a few items.
 
 x![IMG_6279](https://user-images.githubusercontent.com/116067791/213158328-0b149293-7565-4f8a-b354-80849a82f2d2.jpg)
 
+Even though I haven't engaged much, I am also a member of a Facebook swap group based in Prague, where I often check whether somebody is trying to throw away something that would be useful to me.
+
+![IMG_6286](https://user-images.githubusercontent.com/116067791/213159013-d6333235-b7b1-4b28-93ef-e03e789a869b.jpg)
 
 ## Resources
 
