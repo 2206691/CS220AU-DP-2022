@@ -30,6 +30,17 @@ However, the best option one could make is to buy second hand. When it comes to 
 As defined by Parsons (2002), thrift stores are stores that sell gently used goods where the profits are used for charity. The United Kingdom has approximately 9000 charity shops that took in annual revenues of 300 million pounds (Nazir, 2012). There used to be a kind of stigma around thrift stores, them being unorganized and dirty, but they have undergone a make-over in recent years resulting from the payment of management and staff, better locations, standardized merchandising displays, higher quality store figures, and professional promotional strategies (Croft, 2003).
 Thrift stores have risen in popularity thanks to social media over the past few years. More and more people now engage in activity called "thrifting". It is seem as 'cool' because the pieces found in second-hand stores can not usually be bought anywhere else. Therefore, people create unique styles.
 
+### Vinted
+
+This is where digital identities come into place. By creating online accounts, we are creating a digital identity based around sustainability. One of the most well known apps for reselling clothes and other things is Vinted.
+As cited on their official website (dated January 2023), they want to “show just how brilliant second-hand can be.” This app is currently available in 16 countries (Spain, France, Luxembourg, Belgium, the Nethetlands, Germany, Austria, the Czech Republic, Slovakia, Poland, Lithuania, the UK, Italy, Portugal, the USA, and Canada).
+
+How it works:
+- start: download the app, take a photo of what you want to sell, describe the item, post it
+- if somebody bought your item: you got a notification saying “SOLD”, print the shipping label given to you, send it within 5 days, wait
+- payment: if the customer confirms everything arrived alright, you get your payment without any fees
+
+
 ## What do I do?
 
 <br>
