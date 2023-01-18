@@ -1,5 +1,5 @@
 # Climate Change and the Fast Fashion Industry
-## Overview
+## Climate Change
 This GitHub repository is the template for the [CS220AU](https://github.com/khofstadter/CS220AU) assignment in 2022. It demonstrates minimalistic ideas for 
 
 - project management
@@ -11,7 +11,7 @@ The URL of the website can be found in the sidebar, under 'About'. The homepage 
 
 <br>
 
-## Portfolio items
+## Fast fashion
 The portfolio you submit needs to contain the following:
 
 1. **website** (80% of your overall mark) exploring the theme given.
@@ -21,6 +21,10 @@ The portfolio you submit needs to contain the following:
 After you finish these items, complete the `dp-checklist.md` file, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.) In essence, you need to submit only one file on FASER, this `dp-checklist.md`. 
 
 How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in class. If anything is unclear, ask for clarification. 
+
+<br>
+
+## What do I do
 
 <br>
 
