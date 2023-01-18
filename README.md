@@ -7,7 +7,11 @@ Climate change change has been a major international issue ever since the indust
 
 <br>
 
-x
+Although to some it may not seem like it, clothing consumption and especially fast fashion industry is a major contributor to climate change. Over the past few decades, the production of clothing has increased by 400%, 80 billion pieces are produced globally each year [1]. Most unused pieces are then burned or they end up in a landfill.
+
+Fast fashion is a major contributor to this issue. The term describes 'a fast-response system that encourages disposability'[2]. It is cheap and quickly made. Apart from its disposibility, most clothing pieces are made in Bangladesh and China, where the working conditions are especially inhumane. These include environmental pollution, health hazards, and violation of human rights [3]. 
+With the information given, it is undoubtable that something needs to change. If nothing does, then by 2030, the impact of the fashion industry will double [4].
+
 
 ## What do I do
 
