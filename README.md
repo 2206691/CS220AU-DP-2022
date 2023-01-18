@@ -37,7 +37,7 @@ As cited on their official website (dated January 2023), they want to “show ju
 
 How it works:
 - start: download the app, take a photo of what you want to sell, describe the item, post it
-- if somebody bought your item: you got a notification saying “SOLD”, print the shipping label given to you, send it within 5 days, wait
+- if somebody has bought your item: you got a notification saying “SOLD”, print the shipping label given to you, send it within 5 days, wait
 - payment: if the customer confirms everything arrived alright, you get your payment without any fees
 
 
