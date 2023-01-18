@@ -14,9 +14,9 @@ With the information given, it is undoubtable that something needs to change. If
 
 ## What can ordinary people do?
 
-One of the most obvious answers would be to decrease our consumption of fast fashion and unnecessary clothes in general. People usually buy a lot more clothes than they actually need. The United States consumes  the highest amount of clothes and textiles in the world and about 85% of them end up in a landfill [5]. That is 1.7 million tonnes.
+One of the most obvious answers would be to decrease our consumption of fast fashion and unnecessary clothes in general. People usually buy a lot more clothes than they actually need. The United States consumes  the highest amount of clothes and textiles in the world and about 85% of them end up in a landfill [3]. That is 1.7 million tonnes.
 
-When a person is actually in need of new clothes, another great option would be to buy from sustainable fashion brands. What makes them sustainable depends on few factors [6]:
+When a person is actually in need of new clothes, another great option would be to buy from sustainable fashion brands. What makes them sustainable depends on few factors [5]:
 - source of materials (they are local and sustainable)
 - values (producing clothes with the planet, workers, and future generations in mind)
 - ecosystem preservation (reduction of carbon emissions)
@@ -55,11 +55,10 @@ Even though I haven't engaged much, I am also a member of a Facebook swap group 
 ## Resources
 
 [1] Garg, P., 2019, Introduction to fast fashion: Environmental concerns and sustainability measurements. In: K. Shukla and N. Kumar (Eds.) _Environmental Concerns and Sustainable Development_ (Singapore: Springer), pp. 409-427. doi:10.1007/978-981-13-6358-0_18.
-[2]
-[3]
-[4]
-[5]
-[6]
+[2] Joy, A., Sherry, J.F., Jr, Venkatesh, A., Wang, J., and Chan, R., 2012, Fast Fashion, sustainability, and the ethical appeal of luxury brands. _Fashion Theory_ 16(3), 273-295. doi:10.2752/175174112X13340749707123.
+[3] Bick, R., Halsey, E., and Ekenga, C., 2018, The global environmental injustice of fast fashion. _Environmental Health_ 17, 92. doi:10.1186/s12940-108-0433-7.
+[4] Napier, E. and Sanguineti, F., 2018, Fahion merchandisers' slash and burn dilemma: A consequence of over production and excessive waste? _Rutgers Business Review_ 3, 159-174.
+[5] Štefko, R. and Steffek, V., 2018, Key issues in slow fashion: Current challenges and future perspectives. _Sustainability_ 10(7), 2270. doi:10.3390/su10072270.
 
 ## Log
 
