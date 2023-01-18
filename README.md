@@ -15,6 +15,10 @@ x
 
 x
 
+## Resources
+
+x
+
 ## Log
 
 - 2022-12-5 I created a list of resources.
