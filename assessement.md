@@ -46,12 +46,9 @@ To measure my own progress, I filled in the table below using the above marking 
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1.1 |     |     |  o  |     |     |
 | 1.2 |     |     |     |  o  |     |
-| 1.3 |     |     |     |     |     |
 | 2.1 |     |  o  |     |     |     |
 | 2.2 |     |  o  |     |     |     |
 | 3.1 |     |     |     |     |  o  |
-| 3.2 |     |     |     |     |     |
-| 4.1 |     |     |     |     |     |
 
 
 <br>
@@ -67,14 +64,7 @@ To help measure my progress, I asked another student in my group for feedback on
 |---|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 1.1 |     |     |     |     |     |
 | 1.2 |     |     |     |     |     |
-| 1.3 |     |     |     |     |     |
 | 2.1 |     |     |     |     |     |
 | 2.2 |     |     |     |     |     |
 | 3.1 |     |     |     |     |     |
-| 3.2 |     |     |     |     |     |
-| 4.1 |     |     |     |     |     |
 
-Feedback given by: <!-- add student nb -->
-
-
-<br>
