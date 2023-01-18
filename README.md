@@ -28,9 +28,7 @@ However, the best option one could make is to buy second hand. When it comes to 
 ### Thrift stores
 
 As defined by Parsons (2002), thrift stores are stores that sell gently used goods where the profits are used for charity. The United Kingdom has approximately 9000 charity shops that took in annual revenues of 300 million pounds (Nazir, 2012). There used to be a kind of stigma around thrift stores, them being unorganized and dirty, but they have undergone a make-over in recent years resulting from the payment of management and staff, better locations, standardized merchandising displays, higher quality store figures, and professional promotional strategies (Croft, 2003).
-
-
-
+Thrift stores have risen in popularity thanks to social media over the past few years. More and more people now engage in activity called "thrifting". It is seem as 'cool' because the pieces found in second-hand stores can not usually be bought anywhere else. Therefore, people create unique styles.
 
 ## What do I do?
 
