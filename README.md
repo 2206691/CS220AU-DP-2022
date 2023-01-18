@@ -3,7 +3,7 @@
 
 Climate change change has been a major international issue ever since the industrial revolution and therefore the invention of modern, gas-powered technology. Levels of CO2 emissions have significantly increased from approximately 280 p.p.m. to over 390 p.p.m. as a aresult of fossil fuel burning, cement production and land use changes (IPCC, 2007; Peters et al., 2012).
 
-## The problem wiwth today's fashion
+## The problem with today's fashion
 
 <br>
 
@@ -17,7 +17,8 @@ With the information given, it is undoubtable that something needs to change. If
 
 <br>
 
-x
+x![IMG_6279](https://user-images.githubusercontent.com/116067791/213158328-0b149293-7565-4f8a-b354-80849a82f2d2.jpg)
+
 
 ## Resources
 
