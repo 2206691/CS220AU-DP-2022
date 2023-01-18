@@ -1,8 +1,6 @@
 # Climate Change and the Fast Fashion Industry
 ## Climate Change
 
-
-
 Climate change change has been a major international issue ever since the industrial revolution and therefore the invention of modern, gas-powered technology. Levels of CO2 emissions have significantly increased from approximately 280 p.p.m. to over 390 p.p.m. as a aresult of fossil fuel burning, cement production and land use changes (IPCC, 2007; Peters et al., 2012).
 
 ## The problem wiwth today's fashion
