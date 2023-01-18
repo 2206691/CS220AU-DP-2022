@@ -11,10 +11,10 @@ GitHub repository URL: <!-- #todo : add the URL of your repository -->
 I made sure that
 
 - [x] my GitHub username matches my student number;
-- [ ] my repository to submit is named 'CS220AU-portfolio-2022'.
+- [x] my repository to submit is named 'CS220AU-portfolio-2022'.
 
 ### Website
-- [ ] I used the website to explore the theme given.
+- [x] I used the website to explore the theme given.
 - [ ] I provided a URL to my website in my repository's sidebar.
 
 
