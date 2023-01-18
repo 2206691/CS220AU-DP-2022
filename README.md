@@ -16,6 +16,14 @@ With the information given, it is undoubtable that something needs to change. If
 
 One of the most obvious answers would be to decrease our consumption of fast fashion and unnecessary clothes in general. People usually buy a lot more clothes than they actually need. The United States consumes  the highest amount of clothes and textiles in the world and about 85% of them end up in a landfill [5]. That is 1.7 million tonnes.
 
+When a person is actually in need of new clothes, another great option would be to buy from sustainable fashion brands. What makes them sustainable depends on few factors [6]:
+- source of materials (they are local and sustainable)
+- values (producing clothes with the planet, workers, and future generations in mind)
+- ecosystem preservation (reduction of carbon emissions)
+- good working conditions (workers are in safe, structurally sound environments)
+- reasonable hours and wages (regular full-time work and fair wages)
+
+
 
 ## What do I do
 
