@@ -33,7 +33,7 @@ The general marking criteria can be found in the asset folder of the module's [r
 |      |         |              |                                                                                                                        |   |   |
 |      |         |              |                                                                                                                        |   |   |
 |3. OVERALL 10% |         |              |                                                                                                                        |   |   |
-|3.1 The submission's overall level of clarity. |         |              |                                                                                                                        |   |   |
+|3.1 The submission's overall level of clarity. |         |              |                                                                                                                        |   | o |
 
 
 
