@@ -44,7 +44,6 @@ Other available options for people who don't have Vinted in their country are on
 
 ## What do I do?
 
-<br>
 I myself have created an account on Vinted and I have both bought and sold a few items.
 
 ![IMG_6279](https://user-images.githubusercontent.com/116067791/213158328-0b149293-7565-4f8a-b354-80849a82f2d2.jpg)
@@ -55,12 +54,21 @@ Even though I haven't engaged much, I am also a member of a Facebook swap group 
 
 ## Resources
 
-x
+[1] Garg, P., 2019, Introduction to fast fashion: Environmental concerns and sustainability measurements. In: K. Shukla and N. Kumar (Eds.) _Environmental Concerns and Sustainable Development_ (Singapore: Springer), pp. 409-427. doi:10.1007/978-981-13-6358-0_18.
+[2]
+[3]
+[4]
+[5]
+[6]
 
 ## Log
 
+- 2023-1-18 I put everything on Git Hub.
+- 2023-1-16 I finished writing.
+- 2023-1-9 I wrote first two paragraphs.
+- 2023-1-3 I anotated my resources.
 - 2022-12-5 I created a list of resources.
-- 2022-12-4 I created a draft outline for my essay.
+- 2022-12-4 I created an outline for my essay.
 - 2022-11-30 I found few websites that could help me with my project.
 - 2022-11-29 I consulted my ideas with a teacher.
 - 2022-11-11 I narrowed my topic down to second-hand clothing.
