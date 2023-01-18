@@ -12,13 +12,17 @@ Although to some it may not seem like it, clothing consumption and especially fa
 Fast fashion is a major contributor to this issue. The term describes 'a fast-response system that encourages disposability'[2]. It is cheap and quickly made. Apart from its disposibility, most clothing pieces are made in Bangladesh and China, where the working conditions are especially inhumane. These include environmental pollution, health hazards, and violation of human rights [3]. 
 With the information given, it is undoubtable that something needs to change. If nothing does, then by 2030, the impact of the fashion industry will double [4].
 
+## What can ordinary people do?
+
+One of the most obvious answers would be to decrease our consumption of fast fashion and unnecessary clothes in general. People usually buy a lot more clothes than they actually need. The United States consumes  the highest amount of clothes and textiles in the world and about 85% of them end up in a landfill [5]. That is 1.7 million tonnes.
+
 
 ## What do I do
 
 <br>
 I myself have created an account on Vinted and I have both bought and sold a few items.
 
-x![IMG_6279](https://user-images.githubusercontent.com/116067791/213158328-0b149293-7565-4f8a-b354-80849a82f2d2.jpg)
+![IMG_6279](https://user-images.githubusercontent.com/116067791/213158328-0b149293-7565-4f8a-b354-80849a82f2d2.jpg)
 
 Even though I haven't engaged much, I am also a member of a Facebook swap group based in Prague, where I often check whether somebody is trying to throw away something that would be useful to me.
 
