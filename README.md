@@ -1,5 +1,5 @@
 # Climate Change and the Fast Fashion Industry
-## Climate Change
+## Climate change
 
 Climate change change has been a major international issue ever since the industrial revolution and therefore the invention of modern, gas-powered technology. Levels of CO2 emissions have significantly increased from approximately 280 p.p.m. to over 390 p.p.m. as a aresult of fossil fuel burning, cement production and land use changes (IPCC, 2007; Peters et al., 2012).
 
@@ -23,9 +23,16 @@ When a person is actually in need of new clothes, another great option would be 
 - good working conditions (workers are in safe, structurally sound environments)
 - reasonable hours and wages (regular full-time work and fair wages)
 
+However, the best option one could make is to buy second hand. When it comes to decreasing the amount of new clothes produced, there is no better way to get new clothes than to buy what already exists. It is also usually a lot cheaper. 
+
+### Thrift stores
+
+As defined by Parsons (2002), thrift stores are stores that sell gently used goods where the profits are used for charity. The United Kingdom has approximately 9000 charity shops that took in annual revenues of 300 million pounds (Nazir, 2012). There used to be a kind of stigma around thrift stores, them being unorganized and dirty, but they have undergone a make-over in recent years resulting from the payment of management and staff, better locations, standardized merchandising displays, higher quality store figures, and professional promotional strategies (Croft, 2003).
 
 
-## What do I do
+
+
+## What do I do?
 
 <br>
 I myself have created an account on Vinted and I have both bought and sold a few items.
