@@ -55,9 +55,13 @@ Even though I haven't engaged much, I am also a member of a Facebook swap group 
 ## Resources
 
 [1] Garg, P., 2019, Introduction to fast fashion: Environmental concerns and sustainability measurements. In: K. Shukla and N. Kumar (Eds.) _Environmental Concerns and Sustainable Development_ (Singapore: Springer), pp. 409-427. doi:10.1007/978-981-13-6358-0_18.
+
 [2] Joy, A., Sherry, J.F., Jr, Venkatesh, A., Wang, J., and Chan, R., 2012, Fast Fashion, sustainability, and the ethical appeal of luxury brands. _Fashion Theory_ 16(3), 273-295. doi:10.2752/175174112X13340749707123.
+
 [3] Bick, R., Halsey, E., and Ekenga, C., 2018, The global environmental injustice of fast fashion. _Environmental Health_ 17, 92. doi:10.1186/s12940-108-0433-7.
+
 [4] Napier, E. and Sanguineti, F., 2018, Fahion merchandisers' slash and burn dilemma: A consequence of over production and excessive waste? _Rutgers Business Review_ 3, 159-174.
+
 [5] Štefko, R. and Steffek, V., 2018, Key issues in slow fashion: Current challenges and future perspectives. _Sustainability_ 10(7), 2270. doi:10.3390/su10072270.
 
 ## Log
