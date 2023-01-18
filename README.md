@@ -40,6 +40,7 @@ How it works:
 - if somebody has bought your item: you got a notification saying “SOLD”, print the shipping label given to you, send it within 5 days, wait
 - payment: if the customer confirms everything arrived alright, you get your payment without any fees
 
+Other available options for people who don't have Vinted in their country are online reselling groups. Platforms like Facebook have groups available for people to swap things, that are not just clothing. The exact method od paying, swapping or shipping usually depends on the person.
 
 ## What do I do?
 
