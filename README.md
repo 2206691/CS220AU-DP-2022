@@ -5,8 +5,6 @@ Climate change change has been a major international issue ever since the indust
 
 ## The problem with today's fashion
 
-<br>
-
 Although to some it may not seem like it, clothing consumption and especially fast fashion industry is a major contributor to climate change. Over the past few decades, the production of clothing has increased by 400%, 80 billion pieces are produced globally each year [1]. Most unused pieces are then burned or they end up in a landfill.
 
 Fast fashion is a major contributor to this issue. The term describes 'a fast-response system that encourages disposability'[2]. It is cheap and quickly made. Apart from its disposibility, most clothing pieces are made in Bangladesh and China, where the working conditions are especially inhumane. These include environmental pollution, health hazards, and violation of human rights [3]. 
@@ -27,7 +25,7 @@ However, the best option one could make is to buy second hand. When it comes to 
 
 ### Thrift stores
 
-As defined by Parsons (2002), thrift stores are stores that sell gently used goods where the profits are used for charity. The United Kingdom has approximately 9000 charity shops that took in annual revenues of 300 million pounds (Nazir, 2012). There used to be a kind of stigma around thrift stores, them being unorganized and dirty, but they have undergone a make-over in recent years resulting from the payment of management and staff, better locations, standardized merchandising displays, higher quality store figures, and professional promotional strategies (Croft, 2003).
+  Thrift stores are stores that sell gently used goods where the profits are used for charity. The United Kingdom has approximately 9000 charity shops that took in annual revenues of 300 million pounds [6]. There used to be a kind of stigma around thrift stores, them being unorganized and dirty, but they have undergone a make-over in recent years resulting from the payment of management and staff, better locations, standardized merchandising displays, higher quality store figures, and professional promotional strategies [6].
 Thrift stores have risen in popularity thanks to social media over the past few years. More and more people now engage in activity called "thrifting". It is seem as 'cool' because the pieces found in second-hand stores can not usually be bought anywhere else. Therefore, people create unique styles.
 
 ### Vinted
@@ -40,7 +38,7 @@ How it works:
 - if somebody has bought your item: you got a notification saying “SOLD”, print the shipping label given to you, send it within 5 days, wait
 - payment: if the customer confirms everything arrived alright, you get your payment without any fees
 
-Other available options for people who don't have Vinted in their country are online reselling groups. Platforms like Facebook have groups available for people to swap things, that are not just clothing. The exact method od paying, swapping or shipping usually depends on the person.
+Other available options for people who don't have Vinted in their country are online reselling groups. Platforms like Facebook have groups available for people to swap things, that are not just clothing. The exact method of paying, swapping or shipping usually depends on the person.
 
 ## What do I do?
 
@@ -63,6 +61,8 @@ Even though I haven't engaged much, I am also a member of a Facebook swap group 
 [4] Napier, E. and Sanguineti, F., 2018, Fahion merchandisers' slash and burn dilemma: A consequence of over production and excessive waste? _Rutgers Business Review_ 3, 159-174.
 
 [5] Štefko, R. and Steffek, V., 2018, Key issues in slow fashion: Current challenges and future perspectives. _Sustainability_ 10(7), 2270. doi:10.3390/su10072270.
+
+[6] T. Z-T. Ting & J. A. Stagner (2021) Fast fashion - wearing out the planet, International Journal of Environmental Studies, DOI: 10.1080/00207233.2021.1987048.
 
 ## Log
 
